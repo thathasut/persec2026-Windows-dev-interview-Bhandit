@@ -14,3 +14,4 @@ C:\Users\bandi\source\repos\BhanditThathasut\BhanditThathasut\obj\Debug\net8.0-w
 C:\Users\bandi\source\repos\BhanditThathasut\BhanditThathasut\obj\Debug\net8.0-windows\BhanditThathasut.pdb
 C:\Users\bandi\source\repos\BhanditThathasut\BhanditThathasut\obj\Debug\net8.0-windows\BhanditThathasut.genruntimeconfig.cache
 C:\Users\bandi\source\repos\BhanditThathasut\BhanditThathasut\obj\Debug\net8.0-windows\ref\BhanditThathasut.dll
+C:\Users\bandi\source\repos\BhanditThathasut\BhanditThathasut\obj\Debug\net8.0-windows\BhanditThathasut.sourcelink.json
