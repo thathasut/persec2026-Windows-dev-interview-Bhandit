@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestBhandit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5622b14ecb06f201c9f5cef05bbece58fd3d15f4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebd6bb822c4803f866bffc01231e6863047b6d0c")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestBhandit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestBhandit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
