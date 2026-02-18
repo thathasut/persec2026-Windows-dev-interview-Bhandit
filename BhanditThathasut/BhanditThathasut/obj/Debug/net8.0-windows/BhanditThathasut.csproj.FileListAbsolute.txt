@@ -1,0 +1,16 @@
+C:\Users\bandi\source\repos\BhanditThathasut\BhanditThathasut\obj\Debug\net8.0-windows\BhanditThathasut.Form1.resources
+C:\Users\bandi\source\repos\BhanditThathasut\BhanditThathasut\obj\Debug\net8.0-windows\BhanditThathasut.csproj.GenerateResource.cache
+C:\Users\bandi\source\repos\BhanditThathasut\BhanditThathasut\obj\Debug\net8.0-windows\BhanditThathasut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bandi\source\repos\BhanditThathasut\BhanditThathasut\obj\Debug\net8.0-windows\BhanditThathasut.AssemblyInfoInputs.cache
+C:\Users\bandi\source\repos\BhanditThathasut\BhanditThathasut\obj\Debug\net8.0-windows\BhanditThathasut.AssemblyInfo.cs
+C:\Users\bandi\source\repos\BhanditThathasut\BhanditThathasut\obj\Debug\net8.0-windows\BhanditThathasut.csproj.CoreCompileInputs.cache
+C:\Users\bandi\source\repos\BhanditThathasut\BhanditThathasut\bin\Debug\net8.0-windows\BhanditThathasut.exe
+C:\Users\bandi\source\repos\BhanditThathasut\BhanditThathasut\bin\Debug\net8.0-windows\BhanditThathasut.deps.json
+C:\Users\bandi\source\repos\BhanditThathasut\BhanditThathasut\bin\Debug\net8.0-windows\BhanditThathasut.runtimeconfig.json
+C:\Users\bandi\source\repos\BhanditThathasut\BhanditThathasut\bin\Debug\net8.0-windows\BhanditThathasut.dll
+C:\Users\bandi\source\repos\BhanditThathasut\BhanditThathasut\bin\Debug\net8.0-windows\BhanditThathasut.pdb
+C:\Users\bandi\source\repos\BhanditThathasut\BhanditThathasut\obj\Debug\net8.0-windows\BhanditThathasut.dll
+C:\Users\bandi\source\repos\BhanditThathasut\BhanditThathasut\obj\Debug\net8.0-windows\refint\BhanditThathasut.dll
+C:\Users\bandi\source\repos\BhanditThathasut\BhanditThathasut\obj\Debug\net8.0-windows\BhanditThathasut.pdb
+C:\Users\bandi\source\repos\BhanditThathasut\BhanditThathasut\obj\Debug\net8.0-windows\BhanditThathasut.genruntimeconfig.cache
+C:\Users\bandi\source\repos\BhanditThathasut\BhanditThathasut\obj\Debug\net8.0-windows\ref\BhanditThathasut.dll
